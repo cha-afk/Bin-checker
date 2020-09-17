@@ -7,7 +7,7 @@ On Windows
 
     $ - py -3 bincheck.py
     
-    $ - enter yout bin
+    $ - enter your bin
     
     $  -you will find the result on bin.txt
     
