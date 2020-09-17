@@ -15,7 +15,9 @@ On Windows
 On Linux 
 
      $Sudo python bincheck.py
+     
      $Enter your bin 
+     
      $you will find the result on bin.txt
      
      
